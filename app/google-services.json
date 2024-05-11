@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "485452006826",
+    "project_id": "registration-form-e463a",
+    "storage_bucket": "registration-form-e463a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485452006826:android:e7e3f5d5db7fff40ed17d3",
+        "android_client_info": {
+          "package_name": "com.appdev.registration_form"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD9eccKfBX59wzleeiLJSQlln7TXEC-ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
